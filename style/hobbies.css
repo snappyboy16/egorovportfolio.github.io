@@ -32,27 +32,23 @@ main {
     padding: 10px;
     height: 700px;
 }
-.about {
+.hobbies {
     display: flex;
     flex-direction: column;
 }
-.text-about {
+.text-hobbies {
     font-family: 'Advent Pro', sans-serif;
     font-size: 48px;
     color: #ffffff;
 }
-.my-img {
-    display: flex;
-    flex-direction: row;
-    border-radius: 10px;
+.td-text {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 30px;
+    color: #ffffff
 }
-img {
-    border-radius: 10px;
-}
-.text-img {
-    padding-left: 10px;
+p {
     font-family: 'Montserrat Alternates', sans-serif;
-    font-size: 36px;
+    font-size: 16px;
     color: #ffffff;
 }
 table {
