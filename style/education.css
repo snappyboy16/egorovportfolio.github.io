@@ -1,0 +1,67 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    display: flex;
+    height: 80px;
+    background-color: #6384d2;
+    flex-direction: row;
+    align-items: center;
+}
+.nav-button {
+    flex-basis: 400px;
+    text-align: center;
+    height: 40px;
+    background-color: #6384d2;
+    border: #6384d2;
+    border-radius: 10px;
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    margin: 10px;
+}
+.nav-button:hover {
+    background-color: #8c89ff;
+}
+a {
+    text-decoration: none;
+}
+main {
+    background-color: #8c89ff;
+    padding: 10px;
+    height: 1000px;
+}
+.edu {
+    display: flex;
+    flex-direction: column;
+}
+.text-edu {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 48px;
+    color: #ffffff;
+}
+.td-text {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 30px;
+    color: #ffffff
+}
+p {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+}
+table {
+    border-radius: 10px;
+    text-align: center;
+}
+footer {
+    display: flex;
+    background-color: #8c89ff;
+    justify-content: center;
+}
+h3 {
+    color: #ffffff;
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+}
