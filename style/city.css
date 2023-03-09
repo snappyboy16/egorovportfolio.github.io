@@ -32,28 +32,24 @@ main {
     padding: 10px;
     height: auto;
 }
-.edu {
+.city {
     display: flex;
     flex-direction: column;
 }
-.text-edu {
+.text-city {
     font-family: 'Advent Pro', sans-serif;
     font-size: 48px;
     color: #ffffff;
-}
-.td-text {
-    font-family: 'Advent Pro', sans-serif;
-    font-size: 30px;
-    color: #ffffff
 }
 p {
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 16px;
     color: #ffffff;
 }
-table {
-    border-radius: 10px;
-    text-align: center;
+li {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
 }
 footer {
     display: flex;
